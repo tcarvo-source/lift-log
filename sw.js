@@ -1,6 +1,6 @@
 // Offline support: serve the app from cache, refresh the cache in the background.
 // Bump CACHE when releasing a new version so phones pick it up right away.
-const CACHE = 'liftlog-v2';
+const CACHE = 'liftlog-v3';
 const ASSETS = ['./', './manifest.webmanifest', './icons/icon-180.png', './icons/icon-192.png', './icons/icon-512.png'];
 
 self.addEventListener('install', e => {

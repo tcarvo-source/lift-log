@@ -21,7 +21,7 @@ A simple, private workout tracker that runs as a home-screen web app. No account
 
 ## Moving from Strong
 
-In Strong, open Settings, tap **Export Strong Data**, and save the CSV to Files. In Lift Log, go to Settings, tap **Import from Strong**, and pick the file. It imports your history and can build templates from your routines.
+In Strong, tap Profile, then the gear icon, then **Export Workouts**, and save the CSV to Files. In Lift Log, go to Settings, tap **Import from Strong**, and pick the file. It imports your history and can build templates from your routines.
 
 ## Releasing changes
 
